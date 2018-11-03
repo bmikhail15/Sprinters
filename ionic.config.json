@@ -1,6 +1,8 @@
 {
   "name": "Sprinters",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "pro_id": "e8c994b3"
 }
